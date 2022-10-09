@@ -23,3 +23,23 @@ Had issues connecting Docker container to MySQL and after searching Google found
 **Thoughts:** Felt worried about making a start on what I could do after taking some time off. But thankfully Google and some notes I had helped me through. Some teething issues that I didn't forsee but not too much of an issue. Just got to remember it's not a sprint but a marathon.
 
 **Link to work:** [Music Library](https://github.com/Wxmnath/mysql_library)
+
+**Day 2: 8th October 2022**
+Installed express framework as a dependency. Express is a web application framework that provides broad features for building web & mobile applications. It is used to build a single page, multipage and a hybrid application.
+It's a layer built on the top of the Node js that helps manage servers and routes.
+Express creates API's and web application with ease,
+It saves a lot of coding.
+Started the day installing **Express.js** as a dependency.
+
+Express is a framework that helps manage servers and routes by creating API's. It saves alot of coding being written out, which is great news for me :)
+
+Then created app.js file where I call express at the top of the page.
+
+Also created index file calling in my app.js file at the top.
+
+Installed Nodemon as a dev dependency.
+Nodemon watches the project files and automatically updates the local host meaning I don't have to stop and start the local host each time.
+
+**Thoughts:** More confidence going in to it today. Spent time updating the project following the instructions set out and time understanding why we use express. Overall good start, but this I feel is the easy part :)
+
+**Link to work:** [Music Library](https://github.com/Wxmnath/mysql_library)
