@@ -43,3 +43,16 @@ Nodemon watches the project files and automatically updates the local host meani
 **Thoughts:** More confidence going in to it today. Spent time updating the project following the instructions set out and time understanding why we use express. Overall good start, but this I feel is the easy part :)
 
 **Link to work:** [Music Library](https://github.com/Wxmnath/mysql_library)
+
+**Day 3 & 4: 9th & 10th October 2022**
+Wasn't able to do much yesterday, so combining two reports in one.
+Started installing dotenv dependency - A tool that allows for local environment variables that are sensitive information from being accessed from the front end/browser.
+This type of information could be API keys, the host, ports or the database information.
+My sensitive information for this project is stored in .env file which will be kept in my .gitignore file.
+
+Then from installing mysql2 I created both create-database script and a drop-database using the require('dotenv').config to access my sensitive information such as passwords and hosts etc.
+
+**Thoughts:**
+Took me some time to understand how all this pieced together, but think I got the gist of things in the end. Some more practice on this is needed at some point, but wary that I don't hang about too long at this stage as I can always refresh on this again.
+
+**Link to work:** [Music Library](https://github.com/Wxmnath/mysql_library)
